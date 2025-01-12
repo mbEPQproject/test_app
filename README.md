@@ -1,3 +1,3 @@
 # test_app
 
-A new Flutter project.
+Flutter project - Music App
